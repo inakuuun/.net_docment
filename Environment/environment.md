@@ -55,7 +55,7 @@ sudo apt-get install -y dotnet-runtime-7.0
 
 - `dotnet --info` を使うと、SDKバージョンやランタイムバージョンなど詳細情報を見ることができる
 
-- .NETをアンインストールするには
+- .NETをアンインストールするには  
 [.NET ランタイムと SDK を削除する方法](https://learn.microsoft.com/ja-jp/dotnet/core/install/remove-runtime-sdk-versions?pivots=os-linux#uninstall-net)
 
 ```
